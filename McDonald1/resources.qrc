@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/angleterre.jpg</file>
+        <file>images/back.png</file>
+        <file>images/burger0.jpg</file>
+        <file>images/burger1.jpg</file>
+        <file>images/burger10.jpg</file>
+        <file>images/burger11.jpg</file>
+        <file>images/burger12.jpg</file>
+        <file>images/burger2.jpg</file>
+        <file>images/burger3.jpg</file>
+        <file>images/burger4.jpg</file>
+        <file>images/burger5.jpg</file>
+        <file>images/burger6.jpg</file>
+        <file>images/burger7.jpg</file>
+        <file>images/burger8.jpg</file>
+        <file>images/burger9.jpg</file>
+        <file>images/carotte.png</file>
+        <file>images/chine.png</file>
+        <file>images/cross.png</file>
+        <file>images/desert0.jpg</file>
+        <file>images/desert1.jpg</file>
+        <file>images/desert2.jpg</file>
+        <file>images/desert3.jpg</file>
+        <file>images/desert4.jpg</file>
+        <file>images/drink0.jpg</file>
+        <file>images/drink1.jpg</file>
+        <file>images/drink2.jpg</file>
+        <file>images/drink3.jpg</file>
+        <file>images/drink4.jpg</file>
+        <file>images/drink5.jpg</file>
+        <file>images/france.jpg</file>
+        <file>images/left.png</file>
+        <file>images/loupe.png</file>
+        <file>images/mc.png</file>
+        <file>images/mclog.png</file>
+        <file>images/menu.png</file>
+        <file>images/piment.png</file>
+        <file>images/plus.png</file>
+        <file>images/poubelle.png</file>
+        <file>images/sides0.jpg</file>
+        <file>images/sides1.jpg</file>
+        <file>images/sides2.jpg</file>
+        <file>images/sides3.jpg</file>
+        <file>images/sides4.jpg</file>
+        <file>images/sides5.jpg</file>
+        <file>images/sides7.jpg</file>
+        <file>images/tomate.png</file>
+        <file>images/welcome.png</file>
+        <file>images/sides6.jpg</file>
+        <file>images/right.png</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>
